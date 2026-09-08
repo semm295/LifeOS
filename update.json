@@ -1,0 +1,12 @@
+{
+  "latestVersionName": "1.2.0",
+  "latestVersionCode": 3,
+  "apkUrl": "https://github.com/semm295/LifeOS/releases/download/v1.1.0/app-debug.3.apk",
+  "releaseNotes": [
+    "New features added",
+    "Bug fixes",
+    "Performance improvements"
+  ],
+  "minimumSupportedVersionCode": 1,
+  "forceUpdate": false
+}
